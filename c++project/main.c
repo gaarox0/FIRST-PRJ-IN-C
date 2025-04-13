@@ -12,7 +12,7 @@ void  A() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 4 or ans == 1899) {
+    if (ans == 4 || ans == 1899) {
         printf("TRUE \n\n");
     }
     else {
@@ -31,7 +31,7 @@ void B() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 2 or ans == 1902) {
+    if (ans == 2 || ans == 1902) {
         printf("TRUE\n\n");
     }
     else {
@@ -50,7 +50,7 @@ void C() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1880) {
+    if (ans == 1 || ans == 1880) {
         printf("TRUE\n\n");
     }
     else {
@@ -69,7 +69,7 @@ void D() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1900) {
+    if (ans == 1 || ans == 1900) {
         printf("TRUE\n\n");
     }
     else {
@@ -88,7 +88,7 @@ void E() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 4 or ans == 1878) {
+    if (ans == 4 || ans == 1878) {
 
         printf("TRUE IS:1878\n\n");
 
@@ -108,7 +108,7 @@ void F() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1909) {
+    if (ans == 1 || ans == 1909) {
         printf("TRUE \n\n");
     }
     else {
@@ -127,7 +127,7 @@ void G() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 2 or ans == 1970) {
+    if (ans == 2 || ans == 1970) {
         printf("TRUE\n\n");
     }
     else {
@@ -146,7 +146,7 @@ void H() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 3 or ans == 1897) {
+    if (ans == 3 || ans == 1897) {
         printf("TRUE\n\n");
     }
     else {
@@ -165,7 +165,7 @@ void I() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1886) {
+    if (ans == 1 || ans == 1886) {
         printf("TRUE\n\n");
     }
     else {
@@ -184,7 +184,7 @@ void J() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 2 or ans == 1892) {
+    if (ans == 2 || ans == 1892) {
 
         printf("TRUE\n\n");
     }
@@ -204,7 +204,7 @@ void  K() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 4 or ans == 1903) {
+    if (ans == 4 || ans == 1903) {
         printf("TRUE \n\n");
     }
     else {
@@ -224,7 +224,7 @@ void L() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1909) {
+    if (ans == 1 || ans == 1909) {
         printf("TRUE\n\n");
     }
     else {
@@ -244,7 +244,7 @@ void M() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 2 or ans == 1900) {
+    if (ans == 2 || ans == 1900) {
         printf("TRUE\n\n");
     }
     else {
@@ -264,7 +264,7 @@ void N() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1890) {
+    if (ans == 1 || ans == 1890) {
         printf("TRUE\n\n");
     }
     else {
@@ -284,7 +284,7 @@ void O() {
     printf("==>");
     scanf("%d", &ans);
 
-    if (ans == 1 or ans == 1904 ) {
+    if (ans == 1 || ans == 1904 ) {
 
         printf("TRUE IS: 1904\n\n");
 
